@@ -1,0 +1,13 @@
+D:\C#\BASIS Home Practice\VisitorProject\VisitorProject\bin\Debug\VisitorProject.exe.config
+D:\C#\BASIS Home Practice\VisitorProject\VisitorProject\bin\Debug\VisitorProject.exe
+D:\C#\BASIS Home Practice\VisitorProject\VisitorProject\bin\Debug\VisitorProject.pdb
+D:\C#\BASIS Home Practice\VisitorProject\VisitorProject\obj\Debug\VisitorProject.csprojResolveAssemblyReference.cache
+D:\C#\BASIS Home Practice\VisitorProject\VisitorProject\obj\Debug\VisitorProject.MainWindow.resources
+D:\C#\BASIS Home Practice\VisitorProject\VisitorProject\obj\Debug\VisitorProject.Properties.Resources.resources
+D:\C#\BASIS Home Practice\VisitorProject\VisitorProject\obj\Debug\VisitorProject.csproj.GenerateResource.Cache
+D:\C#\BASIS Home Practice\VisitorProject\VisitorProject\obj\Debug\VisitorProject.exe
+D:\C#\BASIS Home Practice\VisitorProject\VisitorProject\obj\Debug\VisitorProject.pdb
+D:\C#\BASIS Home Practice\VisitorProject\VisitorProject\obj\Debug\VisitorProject.UI.VisitorEntryUI.resources
+D:\C#\BASIS Home Practice\VisitorProject\VisitorProject\obj\Debug\VisitorProject.UI.ZoneSpecificVisitorInformationReportUI.resources
+D:\C#\BASIS Home Practice\VisitorProject\VisitorProject\obj\Debug\VisitorProject.UI.ZoneTypeUI.resources
+D:\C#\BASIS Home Practice\VisitorProject\VisitorProject\obj\Debug\VisitorProject.UI.ZoneTypeWiseVisitorNumberReportUI.resources
